@@ -7,11 +7,11 @@
 
 | 章节序号 | 章节名                                                       | 内容简介     | 完成情况 |
 | -------- | ------------------------------------------------------------ | ------------ | -------- |
-| I        | [WELCOME](./content/I. WELCOME.md)                           | 导读         | 已完成   |
-| 1        | [Introduction](./content/1. 前言.md)                         | 前言         | 已完成   |
+| I        | [WELCOME](./content/I.WELCOME.md)                            | 导读         | 已完成   |
+| 1        | [Introduction](./content/1.前言.md)                          | 前言         | 已完成   |
 | 2        | [A Map of the Territory](./content/2.领土地图.md)            | 解释器简介   | 已完成   |
 | 3        | [The Lox Language](./content/3.Lox语言.md)                   | Lox语言介绍  | 已完成   |
-| II       | [A TREE-WALK INTERPRETER](./content/II.A TREE-WALK INTERPRETER.md) | jlox介绍     | 已完成   |
+| II       | [A TREE-WALK INTERPRETER](./content/II.A_TREE-WALK_INTERPRETER.md) | jlox介绍     | 已完成   |
 | 4        | [Scanning](./content/4.扫描.md)                              | 扫描器相关   | 已完成   |
 | 5        | Representing Code                                            | 表示代码     | 进行中   |
 | 6        | Parsing Expressions                                          | 解析表达式   | 未开始   |
