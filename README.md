@@ -19,9 +19,9 @@
 | 3        | [The Lox Language](./content/3.Lox语言.md)                   | Lox语言介绍  | 已完成   |
 | II       | [A TREE-WALK INTERPRETER](./content/II.A_TREE-WALK_INTERPRETER.md) | jlox介绍     | 已完成   |
 | 4        | [Scanning](./content/4.扫描.md)                              | 扫描器相关   | 已完成   |
-| 5        | Representing Code                                            | 表示代码     | 进行中   |
-| 6        | Parsing Expressions                                          | 解析表达式   | 未开始   |
-| 7        | Evaluating Expressions                                       | 执行表达式   | 未开始   |
+| 5        | [Representing Code](./content/5.表示代码.md)                 | 表示代码     | 已完成   |
+| 6        | [Parsing Expressions](./content/6.解析表达式.md)             | 解析表达式   | 已完成   |
+| 7        | Evaluating Expressions                                       | 执行表达式   | 进行中   |
 | 8        | Statements and State                                         | 语句和状态   | 未开始   |
 | 9        | Control Flow                                                 | 控制流       | 未开始   |
 | 10       | Functions                                                    | 函数         | 未开始   |
