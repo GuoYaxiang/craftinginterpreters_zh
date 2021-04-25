@@ -21,8 +21,8 @@
 | 4        | [Scanning](./content/4.扫描.md)                              | 扫描器相关   | 已完成   |
 | 5        | [Representing Code](./content/5.表示代码.md)                 | 表示代码     | 已完成   |
 | 6        | [Parsing Expressions](./content/6.解析表达式.md)             | 解析表达式   | 已完成   |
-| 7        | Evaluating Expressions                                       | 执行表达式   | 进行中   |
-| 8        | Statements and State                                         | 语句和状态   | 未开始   |
+| 7        | [Evaluating Expressions](./content/7.表达式求值.md)          | 执行表达式   | 已完成   |
+| 8        | Statements and State                                         | 语句和状态   | 进行中   |
 | 9        | Control Flow                                                 | 控制流       | 未开始   |
 | 10       | Functions                                                    | 函数         | 未开始   |
 | 11       | Resolving and Binding                                        | 解析和绑定   | 未开始   |
