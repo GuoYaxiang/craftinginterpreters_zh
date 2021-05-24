@@ -22,8 +22,8 @@
 | 5        | [Representing Code](./content/5.表示代码.md)                 | 表示代码     | 已完成   |
 | 6        | [Parsing Expressions](./content/6.解析表达式.md)             | 解析表达式   | 已完成   |
 | 7        | [Evaluating Expressions](./content/7.表达式求值.md)          | 执行表达式   | 已完成   |
-| 8        | Statements and State                                         | 语句和状态   | 进行中   |
-| 9        | Control Flow                                                 | 控制流       | 未开始   |
+| 8        | [Statements and State](./content/8.表达式和状态.md)          | 语句和状态   | 已完成   |
+| 9        | Control Flow                                                 | 控制流       | 进行中   |
 | 10       | Functions                                                    | 函数         | 未开始   |
 | 11       | Resolving and Binding                                        | 解析和绑定   | 未开始   |
 | 12       | Classes                                                      | 类           | 未开始   |
@@ -50,3 +50,8 @@
 | A1       | Appendix I: Lox Grammar                                      | Lox语法      | 未开始   |
 | A2       | Appendix II: Generated Syntax Tree Classes                   | 语法树类     | 未开始   |
 
+
+
+PS：
+
+文本中使用了很多Typora功能语法，建议使用[Typora](https://typora.io/)阅读，
