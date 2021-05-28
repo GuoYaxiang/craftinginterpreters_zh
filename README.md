@@ -23,8 +23,8 @@
 | 6        | [Parsing Expressions](./content/6.解析表达式.md)             | 解析表达式   | 已完成   |
 | 7        | [Evaluating Expressions](./content/7.表达式求值.md)          | 执行表达式   | 已完成   |
 | 8        | [Statements and State](./content/8.表达式和状态.md)          | 语句和状态   | 已完成   |
-| 9        | Control Flow                                                 | 控制流       | 进行中   |
-| 10       | Functions                                                    | 函数         | 未开始   |
+| 9        | [Control Flow](./content/9.控制流.md)                        | 控制流       | 已完成   |
+| 10       | Functions                                                    | 函数         | 进行中   |
 | 11       | Resolving and Binding                                        | 解析和绑定   | 未开始   |
 | 12       | Classes                                                      | 类           | 未开始   |
 | 13       | Inheritance                                                  | 继承         | 未开始   |
