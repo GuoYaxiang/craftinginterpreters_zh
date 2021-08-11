@@ -9,6 +9,12 @@
 
 如果您的英语阅读能力比较强，建议直接阅读原文，同时也欢迎您参与本项目，分享自己学习的成果，帮助更多的人。
 
+囿于本人能力限制，在译文难免有错漏或者含混之处，请积极留言，我会悉心听取大家的意见，争取可以让这篇译文帮助到更多人。
+
+如果您觉得这篇译文对您的学习有所帮助，可以奖励作者一杯奶茶:)
+
+<img src="README/alipay.png" alt="支付宝" style="zoom: 40%;" />                    <img src="README/wechat.png" alt="微信支付" style="zoom:40%;" />
+
 ### 进度
 
 | 章节序号 | 章节名                                                       | 内容简介     | 完成情况 |
@@ -25,8 +31,8 @@
 | 8        | [Statements and State](./content/8.表达式和状态.md)          | 语句和状态   | 已完成   |
 | 9        | [Control Flow](./content/9.控制流.md)                        | 控制流       | 已完成   |
 | 10       | [Functions](./content/10.函数.md)                            | 函数         | 已完成   |
-| 11       | Resolving and Binding                                        | 解析和绑定   | 进行中   |
-| 12       | Classes                                                      | 类           | 未开始   |
+| 11       | [Resolving and Binding](./content/11.解析和绑定.md)          | 解析和绑定   | 已完成   |
+| 12       | Classes                                                      | 类           | 进行中   |
 | 13       | Inheritance                                                  | 继承         | 未开始   |
 | III      | A BYTECODE VIRTUAL MACHINE                                   | clox介绍     | 未开始   |
 | 14       | Chunks of Bytecode                                           | 字节码       | 未开始   |
