@@ -13,7 +13,7 @@
 
 如果您觉得这篇译文对您的学习有所帮助，可以奖励作者一杯奶茶:)
 
-<img src="README/alipay.png" alt="支付宝" style="zoom: 40%;" />                    <img src="README/wechat.png" alt="微信支付" style="zoom:40%;" />
+<img src="README/alipay.png" alt="支付宝" width="300" height="300" />                    <img src="README/wechat.png" alt="微信支付" width="300" height="300" />
 
 ### 进度
 
@@ -32,8 +32,8 @@
 | 9        | [Control Flow](./content/9.控制流.md)                        | 控制流       | 已完成   |
 | 10       | [Functions](./content/10.函数.md)                            | 函数         | 已完成   |
 | 11       | [Resolving and Binding](./content/11.解析和绑定.md)          | 解析和绑定   | 已完成   |
-| 12       | Classes                                                      | 类           | 进行中   |
-| 13       | Inheritance                                                  | 继承         | 未开始   |
+| 12       | [Classes](./content/12.类.md)                                | 类           | 已完成   |
+| 13       | Inheritance                                                  | 继承         | 施工中   |
 | III      | A BYTECODE VIRTUAL MACHINE                                   | clox介绍     | 未开始   |
 | 14       | Chunks of Bytecode                                           | 字节码       | 未开始   |
 | 15       | A Virtual Machine                                            | 虚拟机       | 未开始   |
