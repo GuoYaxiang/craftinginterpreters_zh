@@ -33,8 +33,8 @@
 | 10       | [Functions](./content/10.函数.md)                            | 函数         | 已完成   |
 | 11       | [Resolving and Binding](./content/11.解析和绑定.md)          | 解析和绑定   | 已完成   |
 | 12       | [Classes](./content/12.类.md)                                | 类           | 已完成   |
-| 13       | Inheritance                                                  | 继承         | 施工中   |
-| III      | A BYTECODE VIRTUAL MACHINE                                   | clox介绍     | 未开始   |
+| 13       | [Inheritance](./content/13.继承.md)                          | 继承         | 已完成   |
+| III      | A BYTECODE VIRTUAL MACHINE                                   | clox介绍     | 施工中   |
 | 14       | Chunks of Bytecode                                           | 字节码       | 未开始   |
 | 15       | A Virtual Machine                                            | 虚拟机       | 未开始   |
 | 16       | Scanning on Demand                                           | 扫描         | 未开始   |
