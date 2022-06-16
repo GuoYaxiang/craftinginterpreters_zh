@@ -36,9 +36,9 @@
 | 13       | [Inheritance](./content/13.继承.md)                          | 继承         | 已完成   |
 | III      | [A BYTECODE VIRTUAL MACHINE](./content/III.A_BYTECODE_VIRTUAL_MACHINE.md) | clox介绍     | 已完成   |
 | 14       | [Chunks of Bytecode](./content/14.字节码块.md)               | 字节码       | 已完成   |
-| 15       | A Virtual Machine                                            | 虚拟机       | 已完成   |
-| 16       | Scanning on Demand                                           | 扫描         | 施工中   |
-| 17       | Compiling Expressions                                        | 编译表达式   | 未开始   |
+| 15       | [A Virtual Machine](./content/15.虚拟机.md)                  | 虚拟机       | 已完成   |
+| 16       | [Scanning on Demand](./content/16.按需扫描.md)               | 扫描         | 已完成   |
+| 17       | Compiling Expressions                                        | 编译表达式   | 施工中   |
 | 18       | Types of Values                                              | 值类型       | 未开始   |
 | 19       | Strings                                                      | 字符串       | 未开始   |
 | 20       | Hash Tables                                                  | 哈希表       | 未开始   |
