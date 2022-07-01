@@ -39,8 +39,8 @@
 | 15       | [A Virtual Machine](./content/15.虚拟机.md)                  | 虚拟机       | 已完成   |
 | 16       | [Scanning on Demand](./content/16.按需扫描.md)               | 扫描         | 已完成   |
 | 17       | [Compiling Expressions](./content/17.编译表达式.md)          | 编译表达式   | 已完成   |
-| 18       | Types of Values                                              | 值类型       | 施工中   |
-| 19       | Strings                                                      | 字符串       | 未开始   |
+| 18       | [Types of Values](./content/18.值类型.md)                    | 值类型       | 已完成   |
+| 19       | Strings                                                      | 字符串       | 施工中   |
 | 20       | Hash Tables                                                  | 哈希表       | 未开始   |
 | 21       | Global Variables                                             | 全局变量     | 未开始   |
 | 22       | Local Variables                                              | 局部变量     | 未开始   |
