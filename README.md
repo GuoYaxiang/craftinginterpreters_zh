@@ -41,8 +41,8 @@
 | 17       | [Compiling Expressions](./content/17.编译表达式.md)          | 编译表达式   | 已完成   |
 | 18       | [Types of Values](./content/18.值类型.md)                    | 值类型       | 已完成   |
 | 19       | [Strings](./content/19.字符串.md)                            | 字符串       | 已完成   |
-| 20       | Hash Tables                                                  | 哈希表       | 施工中   |
-| 21       | Global Variables                                             | 全局变量     | 未开始   |
+| 20       | [Hash Tables](./content/20.哈希表.md)                        | 哈希表       | 已完成   |
+| 21       | Global Variables                                             | 全局变量     | 施工中   |
 | 22       | Local Variables                                              | 局部变量     | 未开始   |
 | 23       | Jumping Back and Forth                                       | 来回跳转     | 未开始   |
 | 24       | Calls and Functions                                          | 调用和函数   | 未开始   |
