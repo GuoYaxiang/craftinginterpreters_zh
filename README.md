@@ -42,8 +42,8 @@
 | 18       | [Types of Values](./content/18.值类型.md)                    | 值类型       | 已完成   |
 | 19       | [Strings](./content/19.字符串.md)                            | 字符串       | 已完成   |
 | 20       | [Hash Tables](./content/20.哈希表.md)                        | 哈希表       | 已完成   |
-| 21       | Global Variables                                             | 全局变量     | 施工中   |
-| 22       | Local Variables                                              | 局部变量     | 未开始   |
+| 21       | [Global Variables](./content/21.全局变量.md)                 | 全局变量     | 已完成   |
+| 22       | Local Variables                                              | 局部变量     | 施工中   |
 | 23       | Jumping Back and Forth                                       | 来回跳转     | 未开始   |
 | 24       | Calls and Functions                                          | 调用和函数   | 未开始   |
 | 25       | Closures                                                     | 闭包         | 未开始   |
