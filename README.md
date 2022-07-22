@@ -43,8 +43,8 @@
 | 19       | [Strings](./content/19.字符串.md)                            | 字符串       | 已完成   |
 | 20       | [Hash Tables](./content/20.哈希表.md)                        | 哈希表       | 已完成   |
 | 21       | [Global Variables](./content/21.全局变量.md)                 | 全局变量     | 已完成   |
-| 22       | Local Variables                                              | 局部变量     | 施工中   |
-| 23       | Jumping Back and Forth                                       | 来回跳转     | 未开始   |
+| 22       | [Local Variables](./content/22.局部变量.md)                  | 局部变量     | 已完成   |
+| 23       | Jumping Back and Forth                                       | 来回跳转     | 施工中   |
 | 24       | Calls and Functions                                          | 调用和函数   | 未开始   |
 | 25       | Closures                                                     | 闭包         | 未开始   |
 | 26       | Garbage Collection                                           | 垃圾回收     | 未开始   |
