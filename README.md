@@ -44,8 +44,8 @@
 | 20       | [Hash Tables](./content/20.哈希表.md)                        | 哈希表       | 已完成   |
 | 21       | [Global Variables](./content/21.全局变量.md)                 | 全局变量     | 已完成   |
 | 22       | [Local Variables](./content/22.局部变量.md)                  | 局部变量     | 已完成   |
-| 23       | Jumping Back and Forth                                       | 来回跳转     | 施工中   |
-| 24       | Calls and Functions                                          | 调用和函数   | 未开始   |
+| 23       | [Jumping Back and Forth](./content/23.来回跳转.md)           | 来回跳转     | 已完成   |
+| 24       | Calls and Functions                                          | 调用和函数   | 施工中   |
 | 25       | Closures                                                     | 闭包         | 未开始   |
 | 26       | Garbage Collection                                           | 垃圾回收     | 未开始   |
 | 27       | Classes and Instances                                        | 类和实例     | 未开始   |
