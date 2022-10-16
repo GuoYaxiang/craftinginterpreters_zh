@@ -46,10 +46,10 @@
 | 22       | [Local Variables](./content/22.局部变量.md)                  | 局部变量     | 已完成   |
 | 23       | [Jumping Back and Forth](./content/23.来回跳转.md)           | 来回跳转     | 已完成   |
 | 24       | [Calls and Functions](./content/24.调用和函数.md)            | 调用和函数   | 已完成   |
-| 25       | Closures                                                     | 闭包         | 施工中   |
-| 26       | Garbage Collection                                           | 垃圾回收     | 未开始   |
-| 27       | Classes and Instances                                        | 类和实例     | 未开始   |
-| 28       | Methods and Initializers                                     | 方法和初始化 | 未开始   |
+| 25       | [Closures](./content/25.闭包.md)                             | 闭包         | 已完成   |
+| 26       | [Garbage Collection](./content/26.垃圾回收.md)               | 垃圾回收     | 已完成   |
+| 27       | [Classes and Instances](./content/27.类与实例.md)            | 类和实例     | 已完成   |
+| 28       | Methods and Initializers                                     | 方法和初始化 | 施工中   |
 | 29       | Superclasses                                                 | 超类         | 未开始   |
 | 30       | Optimization                                                 | 优化         | 未开始   |
 | ❧        | BACKMATTER                                                   | 后记         | 未开始   |
