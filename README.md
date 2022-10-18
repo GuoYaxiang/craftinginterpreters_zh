@@ -49,8 +49,8 @@
 | 25       | [Closures](./content/25.闭包.md)                             | 闭包         | 已完成   |
 | 26       | [Garbage Collection](./content/26.垃圾回收.md)               | 垃圾回收     | 已完成   |
 | 27       | [Classes and Instances](./content/27.类与实例.md)            | 类和实例     | 已完成   |
-| 28       | Methods and Initializers                                     | 方法和初始化 | 施工中   |
-| 29       | Superclasses                                                 | 超类         | 未开始   |
+| 28       | [Methods and Initializers](./content/28.方法和初始化器.md)   | 方法和初始化 | 已完成   |
+| 29       | Superclasses                                                 | 超类         | 施工中   |
 | 30       | Optimization                                                 | 优化         | 未开始   |
 | ❧        | BACKMATTER                                                   | 后记         | 未开始   |
 | A1       | Appendix I: Lox Grammar                                      | Lox语法      | 未开始   |
