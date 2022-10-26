@@ -50,8 +50,8 @@
 | 26       | [Garbage Collection](./content/26.垃圾回收.md)               | 垃圾回收     | 已完成   |
 | 27       | [Classes and Instances](./content/27.类与实例.md)            | 类和实例     | 已完成   |
 | 28       | [Methods and Initializers](./content/28.方法和初始化器.md)   | 方法和初始化 | 已完成   |
-| 29       | Superclasses                                                 | 超类         | 施工中   |
-| 30       | Optimization                                                 | 优化         | 未开始   |
+| 29       | [Superclasses](./content/29.超类.md)                         | 超类         | 已完成   |
+| 30       | Optimization                                                 | 优化         | 施工中   |
 | ❧        | BACKMATTER                                                   | 后记         | 未开始   |
 | A1       | Appendix I: Lox Grammar                                      | Lox语法      | 未开始   |
 | A2       | Appendix II: Generated Syntax Tree Classes                   | 语法树类     | 未开始   |
