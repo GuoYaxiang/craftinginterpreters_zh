@@ -13,7 +13,7 @@
 
 如果您觉得这篇译文对您的学习有所帮助，可以奖励作者一杯奶茶:)
 
-<img src="https://cdn.nlark.com/yuque/0/2022/png/762228/1650855595989-3b840e88-476e-42ac-bf87-f310f71e43a6.png?x-oss-process=image%2Fresize%2Cw_750%2Climit_0" alt="支付宝" width="300" height="300" />                    <img src="https://cdn.nlark.com/yuque/0/2022/png/762228/1650855607492-4466d311-b8c9-45e2-88cd-2aeb1f1c8faa.png" alt="微信支付" width="300" height="300" />
+<img src="http://img.codinghonest.space/donate/alipay.png" alt="支付宝" width="300" height="300" />                    <img src="http://img.codinghonest.space/donate/wechat.png" alt="微信支付" width="300" height="300" />
 
 ### 进度
 
