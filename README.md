@@ -1,4 +1,7 @@
 # craftinginterpreters_zh
+
+[ [只读连接](https://readonly.link/books/https://raw.githubusercontent.com/xieyuheng/craftinginterpreters_zh/main/book.json) ]
+
 手撸解释器教程《Crafting Interpreters》中文翻译。
 
 这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
