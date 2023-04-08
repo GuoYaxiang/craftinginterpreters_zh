@@ -1,6 +1,6 @@
 # craftinginterpreters_zh
 
-[ [只读连接](https://readonly.link/books/https://raw.githubusercontent.com/xieyuheng/craftinginterpreters_zh/main/book.json) ]
+[ [只读连接](https://readonly.link/books/https://raw.githubusercontent.com/GuoYaxiang/craftinginterpreters_zh/main/book.json) ]
 
 手撸解释器教程《Crafting Interpreters》中文翻译。
 
