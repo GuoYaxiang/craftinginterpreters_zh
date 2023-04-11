@@ -1,10 +1,10 @@
 # craftinginterpreters_zh
 
-[ [只读连接](https://readonly.link/books/https://raw.githubusercontent.com/GuoYaxiang/craftinginterpreters_zh/main/book.json) ]
+[ [在线阅读](https://readonly.link/books/https://raw.githubusercontent.com/GuoYaxiang/craftinginterpreters_zh/main/book.json) ]
 
 手撸解释器教程《Crafting Interpreters》中文翻译。
 
-这是一个还在进行中的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
+这是一个已基本完成的翻译项目，原项目是[craftinginterpreters](https://github.com/munificent/craftinginterpreters)，同时还有配套的英文书，可免费[在线阅读](http://www.craftinginterpreters.com/)。
 
 该书由一门小型的自创语言Lox开始，分别使用Java和C实现了两种类型的解释器，jlox和clox，其中前者是将语法解析成Java中的表示代码，主要依赖Java本身的语法能力实现代码的真正运行；后者则采用了类似编译和虚拟机的机制，实现了一个看上去“更高效”的解释器。
 
@@ -64,3 +64,8 @@
 PS：
 
 文本中使用了很多Typora功能语法，建议使用[Typora](https://typora.io/)阅读，
+
+
+
+### 特别鸣谢
+感谢[xieyuheng](https://github.com/xieyuheng)提供的在线阅读支持，为需要在线阅读markdown文档的同学推荐[read-only项目](https://github.com/readonlylink/readonlylink)，样式简约大方，值得一试。
